@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Braulio Alejandro Ibarra Salas \[22212387]; L22212387@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
